@@ -1,0 +1,11 @@
+nconst AveRating primaryName
+nm1038384 8.67 Ravi Kishore
+nm0450218 8.4 Abdurrahman Keskiner
+nm0244886 8.37 Asim Dutta
+nm0244897 8.37 Nepal Dutta
+nm0906741 8.32 Shigeru Wakatsuki
+nm1199740 8.28 R. Mohan
+nm3153020 8.15 Igor Lopatonok
+nm0945499 8.12 Takeshi Yamamoto
+nm0648985 8.07 Tadashi Ôno
+nm0802694 8.07 Romu N. Sippy

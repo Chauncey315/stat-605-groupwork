@@ -1,0 +1,6 @@
+tconst,titleType,primaryTitle,startYear,averageRating,numVotes
+tt1542366,movie,Amaren ideia,2010,9.8,5
+tt1262932,movie,Moonshine to the Finish Line: An Unofficial History of NASCAR,2010,9.4,5
+tt1384356,movie,Land of the Rising Fastball,2010,9.4,5
+tt1670231,movie,For Queen and Country,2010,9.4,5
+tt1671666,movie,Nickel City Smiler,2010,9.4,7

@@ -1,0 +1,11 @@
+nconst AveRating primaryName
+nm0014152 8.7 Humayun Ahmed
+nm0797672 8.67 Slobodan Sijan
+nm0236664 8.6 Mircea Dragan
+nm0002160 8.5 Moustapha Akkad
+nm0462030 8.48 Masaki Kobayashi
+nm0002156 8.47 Tengiz Abuladze
+nm0655802 8.4 P. Padmarajan
+nm0536818 8.37 Balu Mahendra
+nm0539034 8.33 Sibi Malayil
+nm0887376 8.3 Mildred Van Leeuwaarden

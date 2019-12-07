@@ -1,0 +1,6 @@
+tconst,titleType,primaryTitle,startYear,averageRating,numVotes
+tt4073512,movie,L'orologio di Monaco,2014,9.6,22
+tt2760492,movie,Vegas,2014,9.4,5
+tt3540488,movie,Socotra: He'r wa Imshin,2014,9.4,5
+tt3551626,movie,Israel Indivisible,2014,9.4,7
+tt3574422,movie,Snarky Puppy: We Like It Here,2014,9.4,7

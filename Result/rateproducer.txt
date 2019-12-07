@@ -1,0 +1,10 @@
+tconst nconst averageRating numVotes titleType primaryTitle
+tt0093603 nm1038384 8.7 13820 movie Nayakan
+tt0251355 nm1038384 8.6 2985 movie Pushpaka Vimana
+tt0311594 nm1038384 8.7 3164 movie Nuvvu Naaku Nachchav
+tt0066500 nm0450218 8.2 2816 movie Hope
+tt0184756 nm0450218 8.5 8835 movie Mr. Muhsin
+tt0252591 nm0450218 8.5 9965 movie King of the Doormen
+tt0063023 nm0244886 8.8 1853 movie The Adventures of Goopy and Bagha
+tt0065417 nm0244886 8.2 2048 movie Days and Nights in the Forest
+tt0066237 nm0244886 8.1 1268 movie The Adversary

@@ -1,0 +1,11 @@
+nconst AveRating primaryName
+nm0188144 8.6 Ion Cristinoiu
+nm0424420 8.45 Johnson
+nm0437151 8.42 Giya Kancheli
+nm1645843 8.38 S. Balakrishnan
+nm0006005 8.37 Salil Choudhury
+nm1015470 8.3 M.G. Radhakrishnan
+nm0234499 8.26 Vojislav Kostic
+nm0796105 8.18 Shyam
+nm6044359 8.17 Sricharan Pakala
+nm1437222 8.15 Raveendran

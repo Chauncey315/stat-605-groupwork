@@ -1,0 +1,11 @@
+nconst AveRating primaryName
+nm0015147 8.67 Sitki Akçatepe
+nm0464060 8.67 Todor Kolev
+nm0831262 8.66 Danilo 'Bata' Stojkovic
+nm0135908 8.62 Toma Caragiu
+nm0130025 8.6 Puiu Calinescu
+nm0705880 8.6 Dem Radulescu
+nm0304261 8.53 Gemini Ganesan
+nm0017988 8.5 Mija Aleksic
+nm0904303 8.48 Pavle Vuisic
+nm0218849 8.47 Aleksandr Demyanenko

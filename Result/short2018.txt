@@ -1,0 +1,6 @@
+tconst,titleType,primaryTitle,startYear,averageRating,numVotes
+tt10327212,short,A Ballad of Solitude,2018,10,5
+tt10330404,short,Lifer,2018,10,6
+tt10825780,short,Even Asteroids Are Not Alone,2018,10,5
+tt11280630,short,Dus ve His,2018,10,5
+tt5372642,short,El Astronauta,2018,10,8

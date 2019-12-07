@@ -1,0 +1,6 @@
+tconst,titleType,primaryTitle,startYear,averageRating,numVotes
+tt11224184,short,The Michigan Transportation Musical,2012,10,10
+tt1847708,short,The Coffee Klash,2012,10,5
+tt1866990,short,Ruse,2012,10,7
+tt2156462,short,Corre (Run),2012,10,5
+tt2158867,short,Walt Whitman Never Paid for It,2012,10,5

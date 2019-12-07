@@ -1,0 +1,11 @@
+nconst AveRating primaryName
+nm0664104 8.6 Parvathi
+nm0690450 8.57 Kaviyoor Ponnamma
+nm0052031 8.4 Mira Banjac
+nm0882219 8.35 Urvashi
+nm9969854 8.33 Rekha
+nm0310221 8.22 Gautami
+nm0034836 8.2 Ineko Arima
+nm0043398 8.2 Chikage Awashima
+nm0023839 8.17 Amala Akkineni
+nm0033171 8.17 Michiyo Aratama
