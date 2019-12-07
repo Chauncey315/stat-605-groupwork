@@ -1,1 +1,41 @@
-Here is the code
+Group Member: Ruixuan Zhao, Ruochen Yin, Chushi Shi, Lokeswar Sadasivuni, Yi Hsuan Tsai
+
+our github is: https://github.com/Enya0128/stat-605-groupwork
+
+Run our job: ./submit.sh (submit.dag)
+
+The code contains three parts of our work.
+1. find average quality of each production(movie,short,tvShort,...) for each year, and Top 5 productions in each year
+pre1.sh
+group1.sub (group1.R, group1.sh)
+post1.sh
+
+The output we need are:
+1) averge rating and voting of each production in each year
+Year/* (folder Year contains 10 files)
+2) Top 5 productions in each year
+TopProduction/* (This folder contains 835 files, and they are too much, so we just reserve movie2010.txt - movie2019.txt, short2010.txt - short2019.txt)
+
+
+2. find highest-rated production
+pre2.sh
+group2.sub (group2.R, group2.sh)
+merge_best.sh
+
+The output we need is:
+best.csv
+
+ 
+3. find the most prolific movie people.
+
+This part contains following files:
+Prework.sh
+workpeople.sub (merge.R, getResult.R, work.txt, merge.sh)
+Postwork.sh
+
+The outputs we need are:
+1) Top 10 movie people and their average rating:
+TopPeople/Actor10.txt, Actress10.txt, Composer10.txt, Director10.txt, Producer10.txt
+2) Top 3 movie people and their movies (and average rating for each movie):
+TopPeople/rateactor.txt, rateactress.txt, ratecomposer.txt, ratedirector.txt, rateproducer.txt
+
