@@ -4,7 +4,11 @@ our github is: https://github.com/Enya0128/stat-605-groupwork
 
 Run our job: ./submit.sh (submit.dag)
 
-Remarks of Data: Our data is refreshed daily. When we run our code for different day, it may need different memory and disk, and get different results, because our data becomes larger and larger. And sometimes, it may get in trouble. For example, one day's refreshed data has some problems of overlap, so previous code may cause wrong results. I have done my best to solve it, but I don't know what future problems will be shown. If the future refreshed data just has this problem, our code can get real-time results.
+Remarks of Data: Our data is refreshed daily. When we run our code for different day, it may need different memory and disk, and 
+get different results, because our data becomes larger and larger. And sometimes, it may get in trouble. For example, one day's 
+refreshed data has some problems of overlap, so previous code may cause wrong results. I have done my best to solve it, but I 
+don't know what future problems will be shown. If the future refreshed data just has this problem, our code can get real-time 
+results.
 
 The code contains three parts of our work.
 1. find average quality of each production(movie,short,tvShort,...) for each year, and Top 5 productions in each year
@@ -16,7 +20,8 @@ The output we need are:
 1) averge rating and voting of each production in each year
 Year/* (folder Year contains 10 files)
 2) Top 5 productions in each year
-TopProduction/* (This folder contains 835 files, and they are too much, so we just reserve movie2010.txt - movie2019.txt, short2010.txt - short2019.txt)
+TopProduction/* (This folder contains 835 files, and they are too much, so we just reserve movie2010.txt - movie2019.txt, 
+short2010.txt - short2019.txt)
 
 
 2. find highest-rated production
