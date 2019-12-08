@@ -1,5 +1,6 @@
 ---
 title: "605_Movie_report"
+author: "Ruixuan Zhao, Ruochen Yin, Chushi Shi, YiHsuan Tsai, Lokeswar Sadasivuni"
 output: html_document
 ---
 
