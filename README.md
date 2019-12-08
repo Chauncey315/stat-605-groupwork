@@ -16,3 +16,6 @@ This folder contains all figures we get in project.
 ## PPT
 This folder contains two PPT for presentation.
 
+## Result
+This folder contains all outputs of this project.
+
