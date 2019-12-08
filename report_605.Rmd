@@ -67,8 +67,20 @@ For audience interests in category related to TV, TV series and TV mini series h
 There are some other results for question 3.
 
 Top 5 productions in each year
+```{r, echo=FALSE}
+top_5 <- read.table("Result/movie2018.txt", sep=",", header = TRUE)
+kable(top_5) %>% kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
+
+```
+
+
 
 Top 10 movie people and their average rating
+```{r,echo=FALSE}
+top_10 = data.frame(nconst = c("nm0015147", "nm0464060", "nm0831262", "nm0135908", "nm0130025", "nm0705880", "nm0304261", "nm0017988", "nm0904303", "nm0218849"), AveRating=c("8.67", "8.67", "8.66", "8.62", "8.6", "8.6", "8.53", "8.5", "8.48", "8.47"), primaryName=c("Sitki Akçatepe", "Todor Kolev", "Danilo 'Bata' Stojkovic", "Toma Caragiu", "Puiu Calinescu", "Dem Radulescu", "Gemini Ganesan", "Mija Aleksic", "Pavle Vuisic", "Aleksandr Demyanenko"))
+kable(top_10) %>% kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
+```
+
 
 Top 3 movie people and their movies
 
