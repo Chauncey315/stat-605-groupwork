@@ -13,7 +13,7 @@ The goal of the project is to get insights in the [IMDb data](https://www.imdb.c
 To answer these questions, we paralleize our computation in 850 jobs on the CHTC platform, plot related graphs and make a conclusion under statistical results. In general, we find that there is no signficant changes on ratings and audience interest from 1840 to 2019. For the difference among different kinds of production, apart from that movie is always dominated among the audience, specially some modern entertainment and production, like video games and TV series, become more and more fashionable, and they have called more audience attention and higher ratings in recent 30 years. Specifically, we list top10 movie people by role and top5 productions by category.
 
 ## Data Description & Cleaning
-We use 4 tsv.files(size) from IMDb Datasets. The followed is related tsv.files description and selected features.
+We use 7 tsv.files(size) from IMDb Datasets and their total size is 4 GB. The followed is related tsv.files description and selected features.
 
 ```{r, echo=FALSE}
 library(kableExtra)
@@ -65,9 +65,9 @@ For audience interests part, we can find the average numbers of voting in movie 
 
 For audience interests by TV categories, TV Series and TV Mini series have a significant fluctuation over year and the amplitude of fluctuations increases over year. Other categories are steady. Among different categories, TV Series and TV Mini Series gain much more attentions than other categories.
 
-The followed are some results for question 3.
+Because there are many results for question 3, we just list some result samples for question 3. 
 
-Top 5 productions by category in each year
+Top 5 productions in movie category in 2018
 ```{r, echo=FALSE}
 top_5 <- read.table("TopProduction/movie2018.txt", sep=",", header = TRUE)
 kable(top_5) %>% kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
