@@ -27,7 +27,6 @@ principals <- data.frame(variable = c('tconst', 'nconst', 'category'), descripti
 kable(principals, caption = "Principals") %>% kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
 ```
 
-
 ```{r, echo=FALSE}
 ratings <- data.frame(variable = c('tconst', 'averageRating', 'numVotes'), description = c('title Id, alphanumeric unique identifier of the title', 'weighted average of all the individual user ratings', 'number of votes the title has received'))
 kable(ratings, caption = "Ratings") %>% kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
