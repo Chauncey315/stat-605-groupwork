@@ -69,7 +69,7 @@ The followed are some results for question 3.
 
 Top 5 productions by category in each year
 ```{r, echo=FALSE}
-top_5 <- read.table("Result/movie2018.txt", sep=",", header = TRUE)
+top_5 <- read.table("TopProduction/movie2018.txt", sep=",", header = TRUE)
 kable(top_5) %>% kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
 
 ```
