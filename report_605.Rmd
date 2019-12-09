@@ -1,5 +1,5 @@
 ---
-title: "Final Report on IMDb Data"
+title: "Final Report on IMDb Data Analysis"
 author: "Ruixuan Zhao, Ruochen Yin, Chushi Shi, YiHsuan Tsai, Lokeswar Sadasivuni"
 output: html_document
 ---
