@@ -93,6 +93,6 @@ Next, we will work on these issues in the future.
 
 ## Conclusion
 From our results, we can make these conclusion as followed.
-1. For most categories of production, ratings and audience interests don’t change much over time. 
+1. For most categories, ratings and audience interests don’t change much over time. 
 2. Movie is always dominated among the audience but most movies in the market do not have a higher ratings.
-3. Modern entertainment and production, like video games and production by TV categories are more and more popolar in recent year, and at same time, they also get higher ratings.
+3. Modern entertainment and production, like video games and production by TV categories are more and more popular in recent year, and at same time, they also get higher ratings.
