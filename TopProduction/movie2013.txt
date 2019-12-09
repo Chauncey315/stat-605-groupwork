@@ -1,0 +1,6 @@
+tconst,titleType,primaryTitle,startYear,averageRating,numVotes
+tt2633610,movie,Occupy Cannes!,2013,9.7,34
+tt2077755,movie,Gvinis Akvani,2013,9.6,5
+tt1821553,movie,Nostalgia: The Music of Wim Statius Muller,2013,9.4,5
+tt2648164,movie,Decompression,2013,9.4,14
+tt2920346,movie,A Place to Call His Own,2013,9.4,7

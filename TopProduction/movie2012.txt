@@ -1,0 +1,6 @@
+tconst,titleType,primaryTitle,startYear,averageRating,numVotes
+tt5012400,movie,Pieces of Lives, Pieces of Dreams,2012,9.8,6
+tt2264978,movie,Harvesting the High Plains,2012,9.5,135
+tt1853696,movie,The Elders,2012,9.4,9
+tt2123262,movie,Ordinary Miracles: The Photo League's New York,2012,9.4,9
+tt2153238,movie,Our Hollywood Story,2012,9.4,38
