@@ -51,7 +51,7 @@ For 2 category parts, traditional categories and TV categories. We get 4 graphs 
 
 ![average Rating by traditional categories over year](Plot/plotYear1.png)
 
-From the plot of average ratings by traditional categories over year, we can find that there is no significant changes for average ratings by each catgory over year, even if video and video games have a noticeable fluctuation in around 1960. For the difference among categories, in general, the average ratings of video and video games are slightly higher than that of movie and short. But in the recent 10 years, the average ratings of short have a significant increment.
+From the plot of average ratings by traditional categories over year, we can find that there is no significant changes for average ratings by each catgory over year, even if video and video games have a noticeable fluctuation in around 1960. For the difference among categories, in general, the average ratings of video and video games are slightly higher than that of movie and short. But in the recent 20 years, the average ratings of short have a significant increment.
 
 ![average ratings by TV categories over year](Plot/plotYear3.png)  
 
