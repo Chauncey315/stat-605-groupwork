@@ -1,7 +1,7 @@
 # STAT 605 Groupwork
 
 ## Group Member
-Ruixuan Zhao, Ruochen Yin, Chushi Shi, Lokeswar Sadasivuni, Yi Hsuan Tsai
+Ruixuan Zhao (rzhao67@wisc.edu), Ruochen Yin (ryin26@wisc.edu), Chushi Shi (cshi46@wisc.edu), Lokeswar Sadasivuni (sadasivuni@wisc.edu), Yi Hsuan Tsai (tsai45@wisc.edu)
 
 ## Data
 Here is a link of our data:  https://www.imdb.com/interfaces/ (data is refreshed daily)
